@@ -1,0 +1,34 @@
+_repo: Charles-Fourier--Sein-Leben-und-seine-Theorien._19596
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bebel, August
+    alias: Bebel, Auguste
+    birthdate: 1840
+    deathdate: 1913
+    gutenberg_agent_id: '4288'
+    url: http://www.gutenberg.org/2009/agents/4288
+    wikipedia: http://en.wikipedia.org/wiki/August_Bebel
+description: ''
+gutenberg_bookshelf:
+- DE Prosa
+- German Language Books
+gutenberg_issued: '2006-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19596'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Socialists -- France -- Biography'
+- !lcc 'HX'
+- !lcsh 'Fourier, Charles, 1772-1837'
+- !lcsh 'Socialism'
+- !lcc 'CT'
+title: 'Charles Fourier: Sein Leben und seine Theorien.'
+url: http://www.gutenberg.org/ebooks/19596
